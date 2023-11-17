@@ -1,7 +1,7 @@
 import PySimpleGUI as sg
 import requests
 
-API_KEY = "ffbfca49f5addc1ea579a415084f10aa"
+API_KEY = "cum"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather_data(city):
